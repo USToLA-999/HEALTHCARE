@@ -1,0 +1,109 @@
+:root {
+    --white-color:                  #FFFFFF;
+    --primary-color:                #247cff;
+    --section-bg-color:             #F9F9F9;
+    --dark-color:                   #000000;
+    --title-color:                  #565758;
+    --p-color:                      #717275;
+    --border-color:                 #eaeaea;
+  
+    --body-font-family:             'Open Sans', sans-serif;
+  
+    --h1-font-size:                 48px;
+    --h2-font-size:                 36px;
+    --h3-font-size:                 32px;
+    --h4-font-size:                 28px;
+    --h5-font-size:                 24px;
+    --h6-font-size:                 22px;
+    --p-font-size:                  18px;
+    --menu-font-size:               16px;
+  
+    --font-weight-light:            300;
+    --font-weight-normal:           400;
+    --font-weight-semibold:         600;
+    --font-weight-bold:             700;
+  }
+
+.mainbody{
+    background: url(./assests/hero-bg.png);
+    background-position: center;
+    width: 100%;
+    background-size: cover;
+    
+}
+.containbody{
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.image-body{
+  margin-top: 2%;
+  margin-bottom: 10%;
+}
+.storyboardcontent{
+  background-color: rgb(27,113,161);
+  
+}
+.boardcontent{
+  background-image: url(./assests/bg-eye-care.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.storyline,.imagebody{
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.contentline{
+  margin-top: 20%;
+  margin-bottom: 10%;
+}
+.containerbody{
+  background: url(./assests/about-us.png);
+  background-size: 30%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+
+}
+.maincontainerbody{
+  background: url(./assests/about-bg.png);
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  background-size: cover;
+}
+.subscriberaler_footer{
+  background: rgb(40,55,121);
+}
+.background{
+  background: url(./assests/about-bg.png);
+  background-size: cover;
+  background-position-x: center;
+  background-repeat: no-repeat;
+}
+.forncontent-email{
+  width: 100%;
+  border-radius: 15px;
+  border-style: none;
+  border: none;
+  outline: none;
+}
+.subs{
+  margin-left: 3%;
+}
+.footervolume{
+  background: rgb(27,113,161)
+}
+.footerback{
+  background: url(./assests/bg-eye-care.png);
+
+}
+.p{
+  font-size: 12px;
+}
+.valuescontent{
+  background: linear-gradient(90deg, #B1DCEC 100%, #FFFFFF21 100%);;
+}
+.imageportion{
+  width: 50%;
+  border-radius: 50%;
+}
