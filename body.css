@@ -101,9 +101,13 @@
   font-size: 12px;
 }
 .valuescontent{
-  background: linear-gradient(90deg, #B1DCEC 100%, #FFFFFF21 100%);;
+  background: linear-gradient(100deg, #B1DCEC 100%, #FFFFFF21 100%);
+  
 }
 .imageportion{
   width: 50%;
   border-radius: 50%;
+}
+.reviescontainerbox{
+  background-color: rgb(243, 248, 250);
 }
