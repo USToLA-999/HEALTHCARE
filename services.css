@@ -38,8 +38,17 @@
     background-repeat: no-repeat;
    
   }
-  .pediatrationbox{
+  .pediatrationbox,.generalphysician{
     background: #C4D8E4;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .bacjgrounbox{
+    background-color: #0099ff;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
   }
   .containent{
     margin-top: 5%;
