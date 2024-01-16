@@ -23,11 +23,31 @@
     --font-weight-semibold:         600;
     --font-weight-bold:             700;
   }
+  body {
+    background: var(--section-bg-color);
+    font-family: var(--body-font-family);    
+    position: relative;
+    padding-top: 94px;
+    font-family: 'Exo', sans-serif;
+}
 
-  .maincontainerbody{
-    /* background: #0099ff; */
+  .maincontainerbodypart{
+     background: #0099ff; 
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
    
   }
+  .pediatrationbox{
+    background: #C4D8E4;
+  }
+  .containent{
+    margin-top: 5%;
+  }
+  .contentlines{
+    margin-top: 5%;
+  }
+  .imbox{
+    margin-top: 10%;
+  }
+  
